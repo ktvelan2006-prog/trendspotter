@@ -1,0 +1,5 @@
+{
+  "name": "TrendSpotter AI",
+  "description": "An AI-powered trending news aggregator that gathers sources and adds casual, witty application remarks.",
+  "requestFramePermissions": []
+}
